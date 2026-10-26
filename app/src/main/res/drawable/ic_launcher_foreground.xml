@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer focus target ring accents -->
+    <path
+        android:fillColor="#809D84FF"
+        android:pathData="M54,22 C55.66,22 57,23.34 57,25 L57,28 C57,29.66 55.66,31 54,31 C52.34,31 51,29.66 51,28 L51,25 C51,23.34 52.34,22 54,22 Z M54,77 C55.66,77 57,78.34 57,80 L57,83 C57,84.66 55.66,86 54,86 C52.34,86 51,84.66 51,83 L51,80 C51,78.34 52.34,77 54,77 Z M22,54 C22,52.34 23.34,51 25,51 L28,51 C29.66,51 31,52.34 31,54 C31,55.66 29.66,57 28,57 L25,57 C23.34,57 22,55.66 22,54 Z M77,54 C77,52.34 78.34,51 80,51 L83,51 C84.66,51 86,52.34 86,54 C86,55.66 84.66,57 83,57 L80,57 C78.34,57 77,55.66 77,54 Z" />
+    
+    <!-- Lock Shackle -->
+    <path
+        android:fillColor="#FFD0BCFF"
+        android:pathData="M54,30 C45.16,30 38,37.16 38,46 L38,50 L44,50 L44,46 C44,40.48 48.48,36 54,36 C59.52,36 64,40.48 64,46 L64,50 L70,50 L70,46 C70,37.16 62.84,30 54,30 Z" />
+
+    <!-- Lock Body (Shield/Padlock) -->
+    <path
+        android:fillColor="#FF7F56D9"
+        android:pathData="M34,48 L74,48 C77.31,48 80,50.69 80,54 L80,72 C80,76.42 76.42,80 72,80 L36,80 C31.58,80 28,76.42 28,72 L28,54 C28,50.69 30.69,48 34,48 Z" />
+
+    <!-- Inner Keyhole & Glowing Core -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,58 C51.79,58 50,59.79 50,62 C50,63.48 50.81,64.77 52,65.46 L51.2,71.2 C51.05,72.24 51.87,73 52.92,73 L55.08,73 C56.13,73 56.95,72.24 56.8,71.2 L56,65.46 C57.19,64.77 58,63.48 58,62 C58,59.79 56.21,58 54,58 Z" />
+</vector>

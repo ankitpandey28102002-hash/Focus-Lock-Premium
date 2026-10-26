@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "A complete, private focus lock app with all premium features unlocked: app blocking, customizable focus modes, Pomodoro timer, strict mode, schedules, and local analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

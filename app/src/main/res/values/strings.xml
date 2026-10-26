@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_desc">FocusLock uses accessibility services to detect when blocked applications are opened during active focus sessions or schedules and redirect you back to your focus.</string>
+</resources>
